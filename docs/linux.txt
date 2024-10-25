@@ -1,0 +1,32 @@
+#LINUX COMMANDS
+
+wsl --install -d Ubuntu
+
+netstat | findstr "9000"
+
+netstat -a | findstr "9000"
+
+netstat -a -n -o | findstr "9000"
+
+netstat -a -n -o | findstr "9000"
+
+  TCP    0.0.0.0:9000           0.0.0.0:0              LISTENING       31144
+  TCP    127.0.0.1:9000         0.0.0.0:0              LISTENING       27168
+  TCP    [::]:9000              [::]:0                 LISTENING       31144
+  TCP    [::1]:9000             [::]:0                 LISTENING       31144
+
+kill 31144
+
+taskkill /PID 31144 /F
+
+taskkill /PID 27168 /F
+
+netstat -a -n -o | findstr "9000"
+
+touch filename
+
+vi sample.py
+
+nano Dockerfile
+
+python3 --version

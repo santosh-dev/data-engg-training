@@ -1,0 +1,101 @@
+Install Helm
+--------------
+Go to the Ubuntu distro
+
+# to download helm
+curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+
+# list the files in the current directory
+ls -l
+
+# to see the helm file content
+ls -l get_helm.sh
+
+# to add full permission to file
+chmod 777 get_helm.sh
+
+# to verify the read write permission
+ls -l get_helm.sh
+
+#to install the helm
+./get_helm.sh
+
+#to verify helm is installed
+helm
+
+Output:
+
+The Kubernetes package manager
+
+Common actions for Helm:
+
+- helm search:    search for charts
+- helm pull:      download a chart to your local directory to view
+- helm install:   upload the chart to Kubernetes
+- helm list:      list releases of charts
+
+Environment variables:
+-----------------------------------------------------
+
+#BITNAMI PACKAGE FOR POSTGRESQL HELM CHARTS
+helm install dellq2release oci://registry-1.docker.io/bitnamicharts/postgresql
+
+helm uninstall dellq2release
+
+helm delete dellq2release
+
+#to export the postgress password
+export POSTGRES_PASSWORD=$(kubectl get secret --namespace dell-scm-dev dellq2release-postgresql -o jsonpath="{.data.postgres-password}" | base64 -d)
+
+# to view the postgress password
+echo $POSTGRES_PASSWORD
+
+# To connect to your database from outside the cluster
+kubectl port-forward --namespace dell-scm-dev svc/dellq2release-postgresql 5432:5432 & PGPASSWORD="$POSTGRES_PASSWORD" psql --host 127.0.0.1 -U postgres -d postgres -p 5432
+
+# optional
+kubectl port-forward --namespace dell-scm-test svc/dellq2release-postgresql 5432:5432
+
+# HELM deployments
+helm create dellscmdeployment
+
+helm install dellscmapprelease1 ./dellscmdeployment
+
+# to check the helm status
+helm status dellscmapprelease1 dellscmdeployment
+
+# To view the helm chart installations done in your k8s cluster
+helm list
+
+# to get the deployements
+kubectl get deployments
+
+# to get pods running
+kubectl get pods
+
+# to get watch pods
+kubectl get pods --watch
+
+# verify the deployment
+kubectl logs deployment/<releasename>-<deploymentname>
+
+kubectl logs deployment/dellscmapprelease1-dellscmdeployment
+
+# to add repo to helm chart
+helm repo add <reponame>
+
+# to see if any chart available
+helm search
+
+helm upgrade stable/<chart name>
+
+helm repo add stable https://kubernetes-charts.storage.googleapis.com/
+helm search
+#check on the status of the release using:
+helm status
+#To upgrade the Chart to the latest version, use:
+helm upgrade stable/<chartname>
+#If the upgrade goes poorly for some reason, Helm also has a rollback feature to revert to the previous version:
+helm rollback
+#To uninstall a release and delete the resources, use:
+helm delete

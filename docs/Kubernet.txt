@@ -1,0 +1,181 @@
+#Minikube Kubernetes Cluster Deployment in Ubuntu 22.04
+
+sudo apt update
+
+sudo apt install docker.io
+
+sudo systemctl start docker
+
+sudo systemctl enable docker
+ 
+sudo systemctl status docker
+
+sudo apt install -y apt-transport-https ca-certificates curl
+
+curl -s https://packages.cloud.google.com/apt/doc/apt-key.gpg | sudo apt-key add -echo "deb https://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list
+
+sudo snap install kubectl --classic
+
+kubectl version --client
+
+curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+
+sudo install minikube-linux-amd64 /usr/local/bin/minikube
+
+minikube version
+
+minikube start --driver=docker
+
+# If you encounter root privileges error, run: 
+minikube start --driver=docker --force 
+minikube status
+
+minikube status
+
+kubectl cluster-info
+
+minikube dashboard
+
+kubectl get nodes
+
+//to see details about the current name space
+kubectl config view
+
+kubectl get namespaces
+
+alias k=kubectl
+
+k get pods
+
+k get pods -n kube-system
+
+k create namespace dell-scm-test
+
+kubectl get namespaces
+
+k config set-context --current --namespace=dell-scm-test
+
+k config view
+
+kubectl create deployment nginx --image=nginx
+
+kubectl get deployments --watch
+
+kubectl get pods --watch
+
+k get pods
+
+k get service
+
+k get all
+
+k get pods -n dell-scm-test
+
+k config set-context --current --namespace=dell-scm-test
+
+k describe pods
+
+k exec -it nginx-bf5d5cf98-mnt29 -- bash
+ 
+k expose deployment nginx --type=NodePort --port=80
+
+k get service
+
+k get pod nginx-bf5d5cf98-mnt29 -o yaml
+
+k get pod nginx-bf5d5cf98-mnt29 -o yaml > nginx_dell.yaml
+
+ls -l
+
+k get service nginx -o yaml
+
+k get pods
+ 
+k scale --replicas=3 deployment.apps/nginx
+
+k get pods
+
+k delete pod nginx-bf5d5cf98-4plr6
+
+k get pods
+
+k get replicasets
+
+kubectl logs deployment deployment_name
+ 
+k logs deployment deployment_name -c podname
+
+kubectl apply -f <yaml filename>
+
+k get secrets
+
+minikube delete  -p dell-k8s-cluster
+
+minikube start --nodes 2 -p dell-k8s-cluster --driver=docker --force
+
+minikube start -p dell-k8s-cluster --driver=docker --force
+
+minikube start -p dell-k8s-cluster
+
+minikube status -p dell-k8s-cluster
+
+kubectl create namespace dell-scm-dev
+
+k get namespaces
+
+kubectl config set-context --current --namespace=dell-scm-dev
+
+k get nodes
+
+k get nodes -o wide
+
+#Esc:wq
+
+minikube service list -p dell-k8s-cluster
+
+kubectl get all
+
+# to get the current docker env
+eval $(minikube docker-env)
+
+docker build -t dell-scm-app-python:latest .
+
+docker build -t dell-scm-app-python:1.0 .
+
+docker image ls
+
+kubectl logs deploy/dell-scm-app-python
+
+kubectl get deployments
+
+kubectl delete deployment/dell-scm-app-python
+
+minikube cache add dell-scm-app-python:latest
+
+docker container run dell-scm-app-python:1.0
+
+docker images
+
+//to remove the images
+docker rmi -f dell-scm-app-python:latest
+
+minikube cache add img-name
+
+minikube cache list
+
+//to see the history of deployment
+kubectl rollout history deployment/dell-scm-app-python
+
+//steps to deploy to KOB
+step-1:build the image
+ docker build -t dell-scm-app-python:1.0 .
+
+step-2:test the container
+ docker container run dell-scm-app-python:1.0
+
+step-3:deploy the container to kubernete
+ kubectl apply -f sample-deployment.yaml
+
+step-4:verify the deployment
+ kubectl logs deployment/dell-scm-app-python
+
