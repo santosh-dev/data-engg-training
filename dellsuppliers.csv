@@ -1,0 +1,501 @@
+Supplier_Contact,Company,Email,Share_Price,Date
+Tara White,Celestica,lloydjames@example.com,3012.07,01-10-1985
+Heather Gutierrez,Pegatron,raymond31@example.net,607.7,04-08-1995
+Monica Olson,Chicony Electronics,perezalex@example.org,5265.85,07-07-1991
+Deborah Collins,Foxconn,elizabeth41@example.net,4694.6,09-07-1971
+Judith Nguyen,Fibocom,zcollier@example.com,4006.83,08-07-1990
+Brittany Sanchez,Chicony Electronics,adamsrebecca@example.com,9920.52,17-05-1997
+Andrea Smith,IBM Corporation,qgonzalez@example.org,839.28,15-07-1992
+Mr. Alexander Mcguire II,Compal,james27@example.net,7373.27,07-08-2014
+Katherine Mercer,Hannstar,jeffreyquinn@example.org,5229.88,23-09-2010
+Ryan Miller,Celestica,matthewsbarry@example.com,7365.78,22-10-1994
+Danny Reese,Chicony Electronics,angela77@example.org,5983.37,07-07-1991
+Courtney Nelson,Finisar,douglas07@example.com,1286.65,25-09-1975
+Lindsay Aguirre,Hannstar,conwaylauren@example.com,5864.73,22-10-2014
+Dwayne Harrell,Wistron,melissa98@example.com,5709.64,29-10-1998
+Steven Parker,Foxconn,dunlapjessica@example.org,5953.51,13-08-2017
+Paul Rodriguez,Hannstar,ujohnson@example.org,6751,01-12-1994
+William Salas,Adata,justin62@example.org,4876.43,01-03-2021
+James Porter,Finisar,perezrobert@example.com,8980.31,11-07-2009
+Nicole Wright,Chicony Electronics,wheelerkimberly@example.com,725.11,17-09-2013
+Kelly Cook,Foxconn,dhale@example.com,2595.72,27-03-1972
+Jeffrey Tran,Hannstar,robinclark@example.net,2219.71,14-12-1985
+Kayla Pollard,Adata,matthewcoleman@example.net,1005.3,03-07-1999
+Barbara Roberts,Hannstar,amber07@example.org,8035.33,01-08-1973
+Kayla Riddle,Broadcom,james59@example.org,2130.88,02-06-2000
+Amanda Scott,Hannstar,agarcia@example.org,8943.08,07-08-1991
+Linda Frost,IBM Corporation,tamarahowell@example.com,9732.06,05-10-2000
+Charles Stewart,IBM Corporation,eric23@example.net,3609.69,29-08-2009
+Joseph Hart,IBM Corporation,xnorris@example.org,6766.38,05-12-1994
+Joe Johnson,Finisar,linda39@example.net,655.97,06-11-2011
+Paul Simpson,Innolux,luis23@example.net,4517.79,03-11-1992
+Joseph Taylor DDS,Adata,nicolehouse@example.com,2096.55,10-01-2011
+Austin Hooper,Compal,james11@example.com,5723.17,01-11-2023
+Tiffany Lopez,Forin,sthomas@example.org,5892.82,13-04-2004
+Nathan Greene,Adata,sarahphelps@example.com,8873.42,16-03-1997
+Brandy Shaw,Celestica,sabrina11@example.com,9595.16,24-05-2016
+Patricia Smith,Pegatron,hawkinstammy@example.net,3215.18,12-01-1979
+Claudia Jordan,IBM Corporation,drew66@example.org,7592.79,06-12-1984
+Kevin Barrera,Finisar,hwilliams@example.com,1039.57,06-09-1974
+Sandra Howell,Innolux,durhamjames@example.net,6432.89,12-01-1984
+Christine Thompson,IBM Corporation,gabriel54@example.com,9955.41,14-07-2009
+Andrew Bradshaw,Innolux,bobby14@example.com,1598.12,02-03-1982
+Steve Thompson,IBM Corporation,deanna32@example.org,6265.08,05-08-1994
+Jacob Hudson,Pegatron,courtneydixon@example.net,5334.6,17-01-1991
+Julie Dickerson,Pegatron,crystaljohnson@example.com,370.45,14-05-2006
+Laura Kennedy,Celestica,teresa87@example.com,6722.85,08-05-1996
+Terry Watkins,Innolux,garygonzalez@example.com,1155.92,30-01-1990
+Matthew Shannon,Forin,janet14@example.org,7476.41,06-11-2020
+Ann Butler,Pegatron,randykirby@example.org,4328.62,14-03-1999
+Hayden Ho III,Pegatron,stucker@example.net,3181.04,26-05-2001
+Anthony Martin,Inventec,johnharris@example.org,2145.2,04-12-1979
+Isaac Jones,Celestica,mercadojennifer@example.com,5581.43,28-04-2017
+Leah Howard,Finisar,murphykimberly@example.net,2434.75,11-08-1987
+Cameron Simpson,Compal,mcphersoncraig@example.org,736.01,16-11-1972
+Sara Hernandez,Fibocom,woodarddaniel@example.org,7703.34,07-02-1995
+Nathan Owen,Hannstar,gjuarez@example.org,6752.56,06-03-1992
+Carlos Patterson,Foxconn,kristopher57@example.com,8633.87,02-10-1994
+Jonathan Brooks,Broadcom,vsmith@example.com,8091.28,05-10-1975
+Austin Li,Forin,smithmark@example.org,8149.24,17-04-1972
+Isabel Martin,Chicony Electronics,ulee@example.org,4057.66,14-09-1997
+Carmen Turner,Wistron,kayla28@example.net,7702.9,22-09-2017
+James Cooper MD,IBM Corporation,marvin31@example.net,1529.3,29-10-1970
+Andrew Brown,Hannstar,jeremy49@example.org,4790,25-09-2004
+Carol Lowery,Compal,wjacobs@example.org,687.3,10-03-2001
+Ryan Moreno,Compal,nicholas25@example.org,463.25,01-12-1979
+John Wright,Forin,bobbecker@example.net,7311.8,17-03-1977
+Gregory Allen,Forin,sotochristopher@example.org,9298.92,06-04-2024
+Michael Carr,Forin,mjohnson@example.net,3915.1,11-07-2020
+Alexander Park,Broadcom,mnelson@example.org,3670.62,24-09-1996
+Dustin Bird,Inventec,robertblack@example.org,3449.9,25-06-2017
+Matthew Walter,Chicony Electronics,gshaffer@example.com,9937.71,26-08-2012
+Jared Lambert,IBM Corporation,groberts@example.com,2765.29,15-06-2000
+Thomas Lucas,Chicony Electronics,jthomas@example.org,4140.35,30-07-2023
+Javier Hudson,Catcher Technolog,sarah13@example.org,1196.93,23-02-1975
+Joshua Hayes,Innolux,ibates@example.net,8612.47,09-12-1999
+Travis Houston,Pegatron,omurray@example.net,5083.27,24-10-1991
+Mark Branch,Broadcom,iwagner@example.org,9107.76,19-01-1986
+Miranda Bryant,Pegatron,cunninghamcourtney@example.org,2853.85,15-04-2023
+Kelly Holmes,Chicony Electronics,wharvey@example.com,9052.5,13-02-1973
+Shannon Crawford,Wistron,justin38@example.net,5605.72,17-07-1997
+Frank Pennington,IBM Corporation,carterpatricia@example.net,8267.31,17-11-1991
+James Robles,Compal,larsonbruce@example.net,7636.08,08-10-1983
+David Jones,Celestica,matthew34@example.net,3241.07,03-02-1984
+Mike Peterson,Chicony Electronics,patriciasmith@example.com,6747.51,10-05-2018
+Devin Williams,Wistron,teverett@example.com,6020.55,26-03-1978
+Michele Conner,Pegatron,morgan57@example.net,9256.05,09-03-1981
+Kristen Pearson MD,Wistron,dalevasquez@example.com,9579.15,26-05-2015
+Brenda Nicholson,Pegatron,deborah93@example.com,3420.75,22-03-1983
+Taylor Brown DVM,Adata,xshah@example.org,9732.39,20-04-2010
+Deborah Johnson,Finisar,cranechristopher@example.com,2842.91,07-09-1997
+Barry Patton,Broadcom,hmarshall@example.net,1127.27,01-08-2015
+Elizabeth Smith,Celestica,rcastro@example.net,3980.99,27-07-1987
+Jill Anderson,Fibocom,michael73@example.org,7676.48,16-07-2019
+Matthew Gonzalez,Forin,kristen36@example.com,3957.63,14-07-1994
+Nicholas Powell,IBM Corporation,qsmith@example.net,3832.84,24-10-1974
+Jacqueline Kane,Broadcom,kimaaron@example.net,2298.96,01-10-1980
+Jesus Mendez,Adata,ljackson@example.net,8276.8,03-11-1987
+Paula Howell MD,Celestica,elizabethsmith@example.net,2593.12,02-03-2012
+Amy Knight,Catcher Technolog,morenogary@example.com,6557.53,05-01-2007
+Christopher Hooper,Compal,kjohnson@example.com,6543.64,20-02-2021
+Jessica Jimenez,Broadcom,michaeldiaz@example.com,1555.17,05-09-1973
+Victoria Robinson,Inventec,jerry32@example.net,1410.79,14-12-2021
+Jason Lee,Foxconn,strongtammy@example.com,5107.85,24-12-1978
+Tommy Smith,Adata,smithadam@example.com,8441.22,25-07-2019
+Jenna Salazar,Finisar,charlotte05@example.net,9531.69,20-08-2023
+Matthew Rodriguez,Foxconn,matthewsluke@example.com,9140.27,17-06-1974
+Lisa Mcgrath,Wistron,jill06@example.org,2085.79,29-03-2014
+Gina Estrada,Celestica,lparrish@example.org,4229.04,28-08-1985
+Jim Hubbard,Catcher Technolog,kellycole@example.com,9131.56,21-12-1984
+Michelle Olson,Innolux,fhuff@example.com,9283.41,28-04-1994
+Laura Harmon,Fibocom,zmoss@example.org,8624.05,23-11-1990
+Bryan Shields,Pegatron,mathew99@example.com,4246.18,29-12-2001
+Paul Mitchell PhD,Broadcom,johnsoncurtis@example.org,7238.92,29-04-2020
+Justin Calhoun,Inventec,larrycabrera@example.org,6936.61,16-04-2011
+Travis Cervantes,Broadcom,mckaymary@example.org,4071.15,05-05-1978
+Gabrielle Moreno,Wistron,holtrichard@example.org,822.41,25-12-1994
+James Barber,Adata,hcastro@example.org,3002.58,09-09-2006
+Jennifer York,Finisar,iboone@example.com,1344.07,07-04-1989
+Dominique Cohen,Adata,newtonlori@example.com,3589.98,10-01-2009
+Scott Moore,Celestica,davidsonmeghan@example.net,980.69,17-11-2020
+Jeffrey Carlson,Chicony Electronics,kimberly30@example.net,3746.69,04-01-1975
+Jeffrey Vincent,Forin,lorifletcher@example.com,866.99,29-07-1971
+Heather Huang PhD,Wistron,cwilliams@example.org,2637.31,19-07-2018
+Heidi Walker,Catcher Technolog,amyowen@example.com,6644.4,16-07-2000
+Mr. Nicholas Hawkins,Hannstar,cordovatravis@example.org,6396.33,13-08-2011
+Lindsay Guerra,IBM Corporation,adrienne83@example.com,6946.27,04-03-1973
+Christian Cisneros,Catcher Technolog,stacy63@example.net,8962.81,06-05-1976
+Jonathan Larson,Broadcom,hscott@example.net,8400.62,17-05-2012
+Krista Berry,Fibocom,dalefrederick@example.org,597.78,07-01-1988
+Brian Dalton,Finisar,ldavis@example.net,1427.52,03-01-1990
+Brianna Martinez,Inventec,jenniferfoley@example.net,4465.69,07-05-1986
+Eugene Cohen DVM,Hannstar,perryraymond@example.org,5729.05,12-11-1970
+Ryan Rios MD,Innolux,ublanchard@example.net,1206.03,25-03-1981
+Hannah Watson DDS,Broadcom,dbecker@example.org,1869.73,23-01-1998
+Jesse Miller,Hannstar,pjackson@example.net,7052.28,15-04-2007
+Ashley Terry,Wistron,samanthamoore@example.net,8852.65,01-07-1975
+Sara Harris,Foxconn,hgonzalez@example.net,2826.33,17-09-1987
+James Estrada,Broadcom,nicole64@example.net,45.54,12-04-1991
+Diana Stein,Catcher Technolog,millerandrew@example.com,9494.38,17-08-2017
+Jason White,Broadcom,kimberlysmith@example.com,1841.68,07-08-1982
+James Glass,Celestica,greenashley@example.org,3300.2,26-12-2013
+Tina Berg,Innolux,andersonjulia@example.org,3010.11,21-08-1996
+Peter Wood,Broadcom,rachel59@example.com,7864.17,05-01-1980
+Penny Estrada,Chicony Electronics,lisarobinson@example.com,6734.22,19-06-2020
+Sean Gray,Catcher Technolog,vyu@example.org,1567.11,29-04-2024
+Vanessa Bates,Hannstar,icollins@example.org,2679.32,20-01-1991
+David Turner,Hannstar,sjohnson@example.net,5358.13,07-02-1985
+Courtney Parker,Wistron,samueljohnston@example.net,1402.71,21-03-2007
+Kimberly West,Inventec,hamptonjames@example.com,8578.05,16-06-1975
+Theresa Cox,Broadcom,fdickerson@example.net,4997.88,08-09-1971
+Jessica Moreno,Wistron,ashleygilbert@example.com,2758.49,07-07-1975
+Amanda Stewart,Celestica,ariasrichard@example.org,8283.46,02-10-2006
+Anthony Carter,IBM Corporation,caseyrebekah@example.com,1952.2,14-05-2006
+Teresa Johnson MD,Innolux,curtisdouglas@example.com,9301.41,16-05-2021
+Edwin Franklin,Compal,michael03@example.com,153.73,30-08-2022
+Steven Alvarez,Catcher Technolog,autumn17@example.org,1058.7,03-08-1976
+Joshua Brown,Chicony Electronics,julie91@example.net,6212.04,18-06-1986
+Devon Woods,Pegatron,wrightmichael@example.com,1527.01,11-02-2015
+Mathew Mueller,Catcher Technolog,robertanderson@example.net,5181.06,26-05-2011
+Michelle Cruz,Pegatron,rjimenez@example.net,8900.73,13-05-2022
+Paul Lam,Foxconn,hamiltonjimmy@example.com,9867.86,08-02-2002
+James Brown,Adata,gouldbrandon@example.net,8978.97,18-05-2007
+Heather Deleon,Finisar,rrowe@example.com,4831.64,19-04-2012
+Valerie Cummings,Celestica,braymichelle@example.net,3812.56,12-02-2023
+Brittany Weiss,Pegatron,kaylarussell@example.org,385.84,07-03-1972
+Patricia Bennett,Fibocom,megancisneros@example.net,6935.18,15-11-2006
+Calvin Robinson,Celestica,llawrence@example.net,1512.64,29-06-1986
+Stacey Adkins,Hannstar,thomastorres@example.com,7646.8,18-03-2009
+Keith Sanders,Compal,lkelly@example.net,1586.32,06-05-1990
+Mandy Booth,Celestica,rebeccamiller@example.com,4161.63,15-01-1986
+Lee Osborn,Chicony Electronics,csmith@example.net,184.42,29-12-1994
+Andrea Velez,Fibocom,stevenallen@example.net,4236.2,26-07-1999
+Robert Wu,Innolux,udougherty@example.net,6953.84,16-01-1981
+Matthew Stein,Wistron,turnertracy@example.com,1650,23-06-1970
+James Conway,Adata,bjackson@example.com,1136.35,17-02-2019
+Robert Hall,Catcher Technolog,iharris@example.net,2962.1,04-10-2012
+David Francis,Pegatron,mauricemorales@example.net,7517.66,28-03-1988
+Tanya Bryant,Inventec,mollyclark@example.org,898.23,27-05-2023
+Shannon Chapman,Finisar,christinabryant@example.com,4066.38,01-10-1995
+Steven Sellers,Inventec,albertjohnson@example.org,6634.39,04-09-1997
+Marvin Vargas,Pegatron,mjohnston@example.org,5846.66,06-05-2010
+Terry Wells,IBM Corporation,hannah54@example.net,9834.51,30-08-1987
+Stacy Hall,Finisar,onunez@example.com,962.57,24-09-2007
+Tony Roberts,Innolux,jasminehurley@example.net,9158.98,28-09-2004
+Anna Clark,Celestica,nathan20@example.org,5936.13,07-03-2000
+Benjamin Perkins,Inventec,fschultz@example.net,9547.46,25-08-1982
+Shane Hicks,Inventec,cynthiastevens@example.com,9856.03,09-11-2022
+Sydney Caldwell,Hannstar,andrea71@example.com,8419.68,08-02-2017
+Willie Pineda,Pegatron,zsteele@example.net,8652.66,19-03-1988
+Brittany Clark,Broadcom,cooperryan@example.com,3674.92,06-07-1981
+Kevin Evans,Pegatron,adrianaorr@example.org,4441.71,29-04-2011
+Kelsey Ramirez,Wistron,mhutchinson@example.com,7280.79,30-04-2014
+Alicia Barron,Compal,shannonstokes@example.net,79.23,20-04-1991
+Samantha Johnson,Adata,john76@example.net,1581.5,10-04-2003
+Theresa Collins,Adata,margaretevans@example.com,8449.55,19-05-1997
+Christopher King,Adata,williamscourtney@example.com,5748.23,22-01-1981
+William Smith,Chicony Electronics,breed@example.org,4184.52,27-02-1975
+Karen Wilcox,Fibocom,davissamantha@example.org,4329.04,21-03-2003
+Jodi Young,Inventec,cantrellelizabeth@example.net,4152.14,05-04-2012
+Linda Mcclain,IBM Corporation,rachelpeck@example.net,2148.39,07-10-1977
+Duane Wright,Celestica,markreyes@example.net,2684.05,28-09-2008
+Lawrence Obrien,Celestica,maxwellscott@example.com,7920.38,14-12-2003
+Joseph Castillo,Wistron,matthew39@example.net,2499.44,13-02-1994
+Austin Cardenas,Pegatron,wilsonbrandy@example.net,6039.16,03-12-1978
+Michael Page,Innolux,denise44@example.com,4634.61,07-02-2024
+Harold Snyder,Innolux,brianrice@example.net,4808.58,04-01-2012
+Sandra Brady,Chicony Electronics,frankramirez@example.net,3781.45,03-02-2023
+Mike Baldwin,Finisar,morganelizabeth@example.org,6202.83,05-08-1999
+Matthew Henson,Celestica,lauren85@example.net,9458.96,28-11-2004
+Rebecca Bryant,Pegatron,vjacobs@example.com,9850.03,07-03-2003
+Derek Long,Compal,wesley34@example.net,8301.58,04-12-1979
+Jeffrey Smith,Chicony Electronics,jamescaldwell@example.com,5450.84,23-07-1975
+Douglas Ruiz,IBM Corporation,katelyn96@example.org,4023.29,04-01-2009
+James Green,Compal,jmorris@example.net,5354.81,16-12-1983
+Angela Smith,Pegatron,bpoole@example.net,9982.5,07-09-1995
+Devon Maldonado,Adata,davidholder@example.org,7214.78,29-04-1986
+Catherine Lowe,Compal,michael47@example.org,7329.94,10-10-2018
+Mark Fisher,Inventec,birdheather@example.org,3157.88,11-12-1994
+Joel Haney,Wistron,transean@example.org,8404.48,18-06-1986
+Nicholas Dillon,Broadcom,matthew61@example.net,7615.03,21-01-2017
+Latasha Hopkins,Hannstar,xwiley@example.org,8770.43,14-11-2003
+Caitlin Wilson,Forin,jpierce@example.com,4892.35,12-06-1992
+Gary Graves,Innolux,melissajames@example.com,5452.08,15-04-2022
+Mr. Leon Lewis DDS,Fibocom,stephen68@example.org,1191.83,29-05-2007
+Debra Martin,IBM Corporation,johnsoncolleen@example.com,5846.2,17-06-2019
+Renee Thompson,Finisar,earlgeorge@example.com,539.89,31-08-2000
+Gregory Jones,Innolux,ypeterson@example.net,5051.61,01-01-2015
+Randy Bailey,Chicony Electronics,vanessacox@example.net,5924.74,23-03-1970
+Ashlee Clements,Chicony Electronics,chelseajohnson@example.org,2866.81,19-05-1973
+Gabriela Walsh,Finisar,lopezeric@example.com,3972.1,12-03-2004
+Jason Wilson,Finisar,wreed@example.org,7509.4,26-09-1990
+Amanda Schultz,Inventec,kathleenclark@example.com,4948.16,25-12-1981
+Deanna Sellers,Finisar,ashley83@example.com,9777.12,03-12-1997
+Benjamin Rush,Foxconn,lsmith@example.net,9601.99,03-05-2004
+Heidi Smith,Innolux,wesley90@example.net,5821.95,06-10-2002
+Taylor Oconnor,Fibocom,kimberlymoody@example.net,5800.8,29-12-1993
+James Smith,Broadcom,uwatts@example.org,6312.84,25-04-2002
+James Frye,Broadcom,contrerassharon@example.org,265.03,27-06-2011
+Alexandra Lopez,Adata,ericadams@example.net,2218.35,05-01-1977
+Angela Thompson,Adata,xclark@example.net,6830.04,07-04-1996
+Yolanda Fisher,Fibocom,rodriguezmelissa@example.com,6853.38,17-11-1976
+Teresa Rogers,Hannstar,michael67@example.net,1651.9,16-08-1976
+Curtis Rios,Catcher Technolog,brett81@example.com,4964.61,23-02-2003
+Thomas Richards,Finisar,territaylor@example.net,2971.23,13-03-1994
+Luis Moore,Compal,stephenwilliams@example.org,6635.94,15-11-2019
+Matthew Craig,Broadcom,amandamiller@example.com,4058.07,12-08-2018
+Michael Clark,Celestica,patrickrogers@example.org,6366.54,19-01-1990
+Elizabeth Davis,Pegatron,kpena@example.net,7126.13,10-04-1988
+Joseph Beck,Innolux,jimenezjerome@example.com,4217.34,16-03-2004
+Jennifer Pena DVM,Adata,mark36@example.org,424.25,17-10-2020
+Kevin Fletcher,Compal,rachelanderson@example.net,6290.39,06-07-2022
+Heather Butler,Innolux,maryrogers@example.net,6073.45,26-04-2000
+Ann Pena DDS,Foxconn,michael95@example.net,6493.77,26-06-1995
+Jacqueline Clark,Innolux,fullerjonathan@example.org,1679.16,17-06-1987
+Suzanne Reynolds,Catcher Technolog,erinhowe@example.net,7720.01,05-02-2003
+David Jones,Inventec,brianruiz@example.net,5412.79,16-10-1982
+Deborah Simpson,Forin,elizabeth53@example.net,6494.37,18-08-1998
+Jermaine Allen,Broadcom,rodriguezkathryn@example.com,1134.44,29-11-2005
+David Richard,Broadcom,robinsontammy@example.com,475.55,17-08-1997
+Margaret Schultz,Wistron,romeroeric@example.org,7340.84,23-09-1983
+Sarah Armstrong,IBM Corporation,douglasamy@example.net,2103.64,24-01-2006
+Jill Villarreal,Forin,lewisjasmine@example.org,9054.92,02-11-1989
+Thomas Nielsen,Fibocom,zfuller@example.org,4165.02,14-07-1990
+Stephanie Bates,Adata,debbiegoodman@example.com,7295.48,06-08-1976
+Heather Castillo,Forin,goldenjeffrey@example.org,3656.81,04-01-2008
+Amber Gonzalez,Compal,parkerbonnie@example.net,7406.55,29-04-2009
+James Morris,Catcher Technolog,ibarnes@example.org,5456.87,21-03-1998
+Alyssa Johnson,Adata,inolan@example.org,692.59,29-03-1989
+Catherine Carlson,Hannstar,hcooley@example.net,1183.26,28-11-1980
+Carla Blanchard,Chicony Electronics,gomezrebecca@example.org,6270.24,05-05-2000
+Blake Warner,Compal,matthew01@example.org,2434.04,11-12-1995
+Erin Graham,Hannstar,uthompson@example.com,2772.44,06-09-2004
+Christopher Howard,Innolux,ygomez@example.net,8816.04,30-04-2016
+Christopher Martinez,Catcher Technolog,jeffrey99@example.net,6578.64,02-07-1970
+Michelle Bowers,Catcher Technolog,petersonvanessa@example.com,8047.66,22-10-2019
+Christopher Lewis,Celestica,elizabethwhite@example.org,9683.02,19-08-1971
+Richard Mitchell,Chicony Electronics,sharon40@example.org,6086.92,02-09-1973
+Marilyn Quinn,Fibocom,hollandbreanna@example.net,4033.6,18-07-1995
+Jeffery Leblanc,Fibocom,michaeldyer@example.org,7605.39,21-10-2009
+David Campbell,Pegatron,twalters@example.net,5579.69,23-08-2020
+Mark Robbins,Adata,edavis@example.org,8643.29,29-04-2016
+Benjamin Patel,Fibocom,ahernandez@example.net,2797.45,28-10-2005
+Lee Oneill,Hannstar,ohunter@example.net,8565.91,18-05-1984
+Holly Gonzales,Fibocom,shepherdlisa@example.org,1203.76,30-07-2017
+Michael Lewis,Wistron,ksolis@example.com,4827.46,03-04-1976
+Mrs. Amber Martin,Finisar,lpalmer@example.net,9755.57,03-03-2008
+Dustin Medina,Inventec,linda69@example.net,3984.9,05-09-2009
+Jillian Hart,Foxconn,olee@example.org,9484.82,12-05-2005
+Jack Garcia,Innolux,morganmatthew@example.net,1994.2,11-12-2007
+Miss Ashley Williams DDS,Adata,wheelerdanny@example.org,1734.38,10-11-1986
+Andrew Graves,Celestica,matthew15@example.net,9613.59,10-07-2013
+Samantha Oliver MD,Hannstar,smithdaniel@example.com,3817.35,04-11-1972
+Allison Delacruz,Wistron,brandonmcintyre@example.net,9517.81,20-10-1975
+Teresa Velez,Forin,jenniferdaniels@example.com,8755.76,07-04-2011
+Brandon Crosby,Wistron,mayomason@example.org,2289.55,28-04-1993
+Mary Young,Innolux,tamarajohnson@example.org,9558.37,25-12-1981
+Michael Contreras,Fibocom,amurphy@example.com,398.67,15-04-1999
+Kristin Jackson,Inventec,angela37@example.org,1223.25,24-05-2006
+Michael Miller,Broadcom,awilliams@example.com,9550.55,09-05-1984
+William Manning,Innolux,paula41@example.org,9027.51,07-08-2023
+Emily Thomas,IBM Corporation,thomassteven@example.net,9827.69,12-02-1975
+Casey Prince DDS,Compal,barbara39@example.com,8368.87,01-02-2022
+Denise Palmer,Innolux,charles30@example.net,2244.8,17-11-1978
+Joseph Brooks,Pegatron,baileyhodges@example.com,1508.79,06-09-2018
+Brandon Hess,Wistron,xcarr@example.org,6593.39,20-02-1979
+Emma Cohen,Chicony Electronics,woodamy@example.org,3640.32,14-04-1992
+Carol Werner,Inventec,maciasnathan@example.net,1610.85,06-03-2013
+Cody Murphy,Forin,april79@example.com,4130.69,28-12-1997
+Faith Henry,Fibocom,stewartalexandria@example.com,5116.98,07-05-1975
+Raymond Ortega,Finisar,joshua94@example.org,883.91,09-05-2015
+Lori Roach,Innolux,stevenssamantha@example.org,5988.77,22-02-2004
+Zachary Archer,Chicony Electronics,johnstewart@example.com,6105.6,12-04-1978
+Tyler Pham,IBM Corporation,moralesscott@example.net,3122.85,08-09-1991
+Amanda Pierce,Innolux,millerdustin@example.org,3741.24,27-06-2009
+Doris Lopez,Fibocom,nicholasgarcia@example.net,6307.24,15-07-1970
+Kimberly Lindsey,Chicony Electronics,steven83@example.org,330.65,27-08-2019
+John Middleton,Chicony Electronics,valeriestuart@example.net,5407.71,26-04-1996
+Paul Russo,Wistron,hgonzales@example.com,3146.91,28-12-2010
+Jacob Morgan,Pegatron,vallen@example.com,6845.89,12-09-1994
+Allison Stewart,Wistron,ywells@example.net,8782.63,15-10-2021
+Mrs. Renee Newman MD,Chicony Electronics,yjohnson@example.org,2386.05,12-01-2007
+Michael Robertson,Inventec,erikapace@example.com,9683.42,20-09-1982
+Tiffany Gonzales,Foxconn,daniel35@example.com,7922.15,07-10-1976
+Joan Roberts,Pegatron,carlfowler@example.com,4355.77,11-09-1981
+Richard Evans,Innolux,ryansarah@example.org,6824.9,12-12-1983
+John Lester,IBM Corporation,miranda88@example.net,2708.62,10-08-1990
+Gary Jacobs,Wistron,fmckenzie@example.com,3229.37,10-07-1991
+Carla West,Compal,tammywolfe@example.com,6041.73,11-04-1974
+Christine Smith,Chicony Electronics,gonzalezvictor@example.net,9941.93,31-07-2003
+Larry Clark,Hannstar,anthonybecker@example.net,8597.92,05-10-2021
+Kristin Alvarado,Hannstar,benjamin05@example.net,2559.25,02-02-2005
+Mark Young MD,Broadcom,onealtammy@example.net,8235.67,16-01-2024
+David Wilcox,Innolux,thoffman@example.net,6991.9,29-05-1984
+Janet Mora,Wistron,donaldalexander@example.com,7431.29,27-04-2004
+Cynthia Jenkins,Compal,david13@example.org,8055.28,12-09-1994
+Jacqueline Curtis,Chicony Electronics,wmccoy@example.com,7647.98,29-08-2007
+Thomas Daniels,Fibocom,vedwards@example.net,5929.74,17-12-2006
+Victoria Duncan,Pegatron,xtaylor@example.net,1934.46,26-10-2012
+Daniel Ballard,Foxconn,zvalenzuela@example.org,368.27,07-07-1972
+Joann Clements,Pegatron,hlandry@example.org,8786.69,26-08-1993
+Michelle Williams,Foxconn,michael96@example.com,3919,23-02-2017
+Charles Moore,Compal,whitney21@example.com,5411.13,03-01-2017
+Brady Cantu,Fibocom,ingrammarcus@example.com,604.44,24-07-1990
+Lisa Vang,Compal,johnsonrachel@example.net,1613.94,28-01-2023
+Michelle Price,Compal,brooksjessica@example.com,3281.03,13-04-2009
+Steven Mcdonald,Wistron,colemanlaura@example.org,871.95,18-02-2014
+Cindy Chan,Wistron,rsteele@example.com,3329.54,26-01-1988
+Melissa Anderson,Adata,xbarnes@example.com,3466.08,24-03-1992
+Jason Peterson,Chicony Electronics,adam66@example.com,9696.22,28-05-2000
+Michelle Ortiz,Celestica,irodgers@example.com,9720.58,12-06-2005
+Mr. Zachary Harrison MD,Broadcom,michael85@example.com,3001.67,31-01-1972
+William Love,Compal,robertssarah@example.org,82.67,09-01-1998
+Mrs. Diane Wade,Celestica,banderson@example.org,522.24,09-12-1998
+Gregory Parsons,Celestica,bryan59@example.net,3723.97,27-02-1981
+Martin Herrera,Fibocom,morrisonedward@example.org,8895.37,03-06-2022
+Dominique Jones,Pegatron,zlewis@example.net,9553.6,04-10-1997
+Thomas Hall,Forin,butlermatthew@example.com,336.85,15-03-2022
+Michelle Wilkerson,Celestica,jacob57@example.com,9185.64,08-09-1977
+Brad Stephens,Wistron,julie70@example.net,824.87,25-04-1973
+Jessica Brown,Compal,woodsrhonda@example.org,7441.89,03-01-1973
+Mr. Christian Davis,Finisar,rileykeith@example.org,8823.74,03-10-2004
+Joshua Taylor,Finisar,calvin80@example.net,2809.2,20-08-1992
+William Ochoa,Compal,anthonycastro@example.org,1630.03,14-06-1984
+Sabrina Cooke,Chicony Electronics,kathleen19@example.org,139.81,15-05-1978
+Heather Lam,Compal,wbishop@example.net,6729.89,28-02-1990
+Valerie Allen,Adata,eanderson@example.org,8628.83,28-09-2005
+Richard Jennings,Adata,averyjoseph@example.net,3261.03,13-07-2021
+Lance Keller,Broadcom,mpena@example.com,8120.62,01-01-1991
+Angela Willis,Fibocom,fandrade@example.net,2406.7,19-05-2012
+Jason Harris,Fibocom,brianhuffman@example.org,4000.18,16-03-2006
+Erica Cox,Forin,kimberlymartinez@example.net,2967.3,20-05-2014
+Sydney Keller,Foxconn,annette38@example.org,1150.44,03-12-2013
+Mrs. Kayla Huff,Forin,pchavez@example.com,2136.03,10-03-2007
+Nicole Hall,Adata,everettcrystal@example.com,5800.79,31-07-1986
+Kelsey Macdonald,Compal,patrickvillarreal@example.com,8090,27-03-1976
+Mr. Gary Williams DVM,Catcher Technolog,christiansmith@example.com,6843.08,19-07-2018
+Christopher Jackson,Wistron,marvin77@example.org,2921.15,02-11-2004
+Jessica Porter,Forin,ian96@example.org,2766.23,01-01-1987
+Samuel Johns,Chicony Electronics,david64@example.net,2424.11,18-09-2009
+Cynthia Brown,Foxconn,ehernandez@example.org,4834.62,30-11-2010
+Melissa Michael,Adata,ecruz@example.net,7848.56,13-09-2023
+Kelsey Salinas,Finisar,julie33@example.com,141.75,18-05-2010
+Miranda Gonzales,Inventec,ann52@example.net,1425.07,05-07-1975
+Pamela Franklin,Compal,erinwilliams@example.org,2285.79,21-09-2020
+Justin Byrd,Forin,rdavidson@example.net,682.62,04-11-1972
+Hunter Barber,Catcher Technolog,brandi03@example.net,4331.8,28-03-1985
+Brian Thomas,Adata,bairdalexis@example.org,2207.14,08-07-1992
+Lawrence Bryant,Pegatron,mark69@example.org,9742.41,27-02-2012
+Shannon Garcia,Innolux,william00@example.org,4152.88,08-04-1986
+Gary Ramirez,Chicony Electronics,timothy24@example.com,6759.04,18-09-2001
+Sara Estrada,Catcher Technolog,kristenwilson@example.net,3306.11,11-04-1975
+Lori Phillips,Finisar,mary10@example.net,2546.89,08-03-2021
+Amanda Anderson,Broadcom,bcarpenter@example.net,1556.51,26-10-1970
+Crystal Mitchell,Foxconn,csingleton@example.net,8602,10-08-1991
+Robert Moran,Celestica,daviespatrick@example.com,3084.15,14-05-1990
+Frederick Klein,Catcher Technolog,ihanna@example.org,7140.64,17-07-2021
+Robert Baker,Catcher Technolog,cunninghamjennifer@example.net,5781.99,10-06-1987
+Joseph Stevens,Forin,sryan@example.com,5525.63,06-05-1995
+Joshua Perez,Inventec,caitlin48@example.com,9614.13,14-04-1981
+Christopher Coleman,Foxconn,ericgarcia@example.com,4672.21,25-08-2010
+Gary Guzman,Wistron,melindagonzalez@example.org,7277.82,12-08-2022
+Lisa Prince,Adata,christopher34@example.com,1278.12,20-07-1977
+Jacob Kent,Celestica,gonzalestimothy@example.com,842.42,04-11-2012
+Joseph Cooper,Hannstar,johngrant@example.org,5049.21,08-05-1985
+Hailey Calderon,Adata,cynthia02@example.com,3823.75,06-12-1970
+Jennifer Chang,Catcher Technolog,dylansmith@example.org,7322.84,01-09-1976
+Tara Cuevas,Adata,taylormatthew@example.net,5592.99,01-02-1972
+Angelica Miller,Celestica,cfletcher@example.org,4154.54,27-09-1979
+Debra Snow,Wistron,zclark@example.com,7916.26,06-06-2010
+Maureen Stewart,Celestica,rebeccamoore@example.net,7514.17,19-06-2007
+Paul Ruiz,Chicony Electronics,waynewilson@example.net,5219.36,27-05-1976
+Crystal Lewis,Chicony Electronics,shepherdjacob@example.org,8696.6,11-02-2013
+Andrew Johnson,Finisar,rthomas@example.org,9861.56,10-02-1979
+Keith Ward,Catcher Technolog,miranda15@example.net,2253.93,13-04-1995
+Madison Cole,Adata,jacqueline53@example.com,1840.8,11-05-2014
+Alison Davis,Inventec,ashleyburton@example.org,6147.97,20-04-2014
+Melinda White,Compal,jenny55@example.net,5967.44,09-10-1996
+Cody Deleon,Fibocom,mitchelllopez@example.net,1051.12,21-06-2004
+Megan Davis,Wistron,moorejeff@example.com,8070.49,17-02-1995
+Kenneth Olsen,Pegatron,jasonsmith@example.org,6235.54,27-07-2022
+Amanda Sanders,Fibocom,michaelrhodes@example.net,809.66,06-06-1987
+Leah Gray,Foxconn,cfrancis@example.com,8877.8,15-03-1993
+Joseph Duncan,Finisar,tperkins@example.org,6551.52,31-01-2021
+Michelle Romero,Adata,cweiss@example.net,9896.04,08-12-1988
+Alexis Dixon,Compal,andrewscott@example.net,7622.37,19-08-1973
+Jerry Lang,Pegatron,jeffrey82@example.com,9741.52,21-08-2015
+Melanie Green,Innolux,tbailey@example.net,7081.72,26-01-2020
+Robert Freeman,Pegatron,dkennedy@example.org,8088.68,02-07-1978
+Joshua Moreno,Chicony Electronics,burkepatrick@example.com,2492.25,28-05-2011
+Becky James,Compal,kelly06@example.net,8216.22,05-04-1995
+Lisa Harris,Catcher Technolog,novakkimberly@example.org,2190.66,14-09-1988
+April Woods,Hannstar,jmclaughlin@example.com,3781.3,20-05-2020
+Tiffany Smith,Celestica,felicialandry@example.org,1138.64,29-08-2022
+Catherine Blanchard,Catcher Technolog,jacksonbrian@example.net,7436.08,15-05-1973
+Mr. Joseph Henderson II,Catcher Technolog,lsimmons@example.org,7119.17,15-12-2014
+Mitchell Phillips,Catcher Technolog,justinmullins@example.com,7075.05,01-04-1985
+Dr. Danielle Case,Innolux,shawn45@example.org,1610.39,25-10-2014
+Taylor Woods,Inventec,ashleesanchez@example.net,5788.47,08-02-2013
+Michael Bullock,Compal,schaeferjennifer@example.net,5603.87,04-03-2004
+Derrick Crawford,Catcher Technolog,tgill@example.org,8981.67,20-06-2006
+Travis Finley,Chicony Electronics,doughertykyle@example.com,7582.77,02-12-2013
+Francisco White,Chicony Electronics,woodsdonald@example.com,1901.43,19-06-2018
+Christina Choi,Foxconn,johnsonronald@example.com,8377.76,16-01-1996
+Joel Peterson,Broadcom,raymondbishop@example.net,5280.01,21-01-1971
+Kelsey Ellis,Hannstar,millerchristopher@example.com,6751.45,13-06-2001
+Tiffany Castillo,Celestica,bookerjudy@example.net,2041.43,29-07-2014
+Brian Murphy,Broadcom,xmason@example.org,4113.12,26-04-1999
+Peter Shaffer,Finisar,matthew92@example.net,597.68,24-05-2008
+Ray Murillo,Fibocom,timothywood@example.org,8429.1,27-09-1989
+Kimberly Mullins,Finisar,pattersonjonathon@example.org,1902.24,10-03-1998
+Alyssa Martin,Wistron,whitetimothy@example.org,6193.41,08-04-2012
+Martin Edwards,Hannstar,maynardjoann@example.org,2445.02,02-09-2020
+Mark Green,Pegatron,robert30@example.org,4260.64,19-01-1985
+Kayla Gray,Chicony Electronics,mskinner@example.net,274.27,18-06-2023
+David Davis,Celestica,terrylaura@example.com,4057,17-04-1998
+Stephen Perez,IBM Corporation,qhayes@example.net,2944.2,21-12-2019
+Casey Mcdonald,Innolux,laura76@example.com,8170.03,17-06-2012
+Lisa Bennett,Adata,perkinselizabeth@example.org,9538.66,08-02-2017
+Raymond Campbell,Forin,carolyntaylor@example.net,3735.42,27-11-1989
+Eric Petty,Catcher Technolog,jacquelinehicks@example.org,939.84,15-06-1974
+Brian Johnston,Adata,johnsingleton@example.org,2320.19,16-04-2003
+Linda Sims,Wistron,alexis54@example.net,6085.86,27-05-1984
+Kellie Phillips,Catcher Technolog,nlopez@example.com,1242.66,24-03-2001
+Matthew Patel,Innolux,mjackson@example.com,539.34,03-12-1991
+Lauren Barnett,Forin,david75@example.com,8045.23,12-02-1973
+Thomas Brooks,Wistron,kendra78@example.net,1838.01,03-11-1978
+Amanda Terry,Inventec,brewerkimberly@example.org,8081.54,15-12-2023
+James Johnson,Fibocom,michellebrady@example.org,4546.94,22-09-1987
+Nathan Rodriguez,Pegatron,grossclifford@example.org,7320.08,14-01-2015
+Stephen Nash,Foxconn,carlsonkathy@example.com,6282.81,14-02-1972
+James Duke,Inventec,hodgeskaitlyn@example.org,5635.88,02-11-2013
+Luke Gardner,Compal,carla42@example.net,8949.5,25-12-2012
+Raymond Smith,Fibocom,franciscosummers@example.net,3744.24,16-01-2005
+Ralph Summers,Inventec,mcfarlandjason@example.org,5955.49,03-11-1988
+Darrell Williams,IBM Corporation,annchambers@example.org,5962.88,09-10-1985
+Gary Humphrey,Forin,michaelfisher@example.net,8774.95,23-01-1991
+Jennifer Smith,Forin,reginatorres@example.org,8475.5,01-09-2016
+Michael Hicks,Catcher Technolog,lisa24@example.org,1062.52,12-11-1976
+Sarah Webb,Hannstar,arogers@example.org,7990.36,15-07-2001
+Allen Wallace,Celestica,cheryl22@example.com,1127.35,20-11-2001
+Denise Burns,Hannstar,austintyler@example.org,4503.46,24-11-1971
+Chase King,Celestica,connermatthew@example.com,2434.43,09-07-1971
+Angela Simmons,Celestica,gina69@example.net,3903.97,20-11-1970
+Rhonda Ward,Pegatron,kingjeffrey@example.org,8777.59,02-09-1991
+William Cole,Inventec,mark43@example.org,4298.3,16-03-1995
+Tonya Castillo,Fibocom,aparker@example.org,832.36,24-12-1993
+Matthew Clark,Chicony Electronics,stevensdanielle@example.com,8613.71,31-12-2012
+Terrance Buchanan PhD,Foxconn,abrennan@example.org,2769.87,09-08-1997
+Mr. Scott Griffin,Chicony Electronics,laurie10@example.org,953.68,06-06-1996
+Ronald Love,Foxconn,clarkgabrielle@example.com,2771.63,10-08-1996
+Michael Mckinney,Broadcom,edward31@example.org,5351.91,02-08-1971
+Michelle Evans,Fibocom,barrerapaul@example.net,8277,25-08-1982
+John Brock,Adata,chamberslisa@example.net,737.04,03-01-2002
+Christian Vaughan,Pegatron,lisa67@example.com,2871.68,07-04-1987
+Jessica Bryant,Celestica,rotheric@example.org,4810.41,10-10-2005
+Jennifer Ramirez,Wistron,greilly@example.org,5938.28,20-12-2002
+Tiffany Johnson DDS,Celestica,jonesalejandra@example.org,8785.79,01-06-2012
+Brittany Wilcox,Celestica,goldenmegan@example.org,437.89,25-05-1990
+Patrick Taylor,Fibocom,peterwolf@example.net,7862.26,14-02-1979
+Corey Booker,Hannstar,aprilsmith@example.org,6632.35,06-05-1998
+David Parker,Hannstar,kimberlylawrence@example.com,3522.56,07-02-1980
